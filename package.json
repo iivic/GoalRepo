@@ -1,0 +1,23 @@
+{
+  "name": "GoalRepo",
+  "version": "1.0.0",
+  "description": "Learning git on this repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iivic/GoalRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iivic/GoalRepo/issues"
+  },
+  "homepage": "https://github.com/iivic/GoalRepo#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
